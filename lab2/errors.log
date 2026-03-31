@@ -1,0 +1,9 @@
+lspci -knn: 00:07.0 Bridge [0680]: Intel Corporation 82371AB/EB/MB PIIX4 ACPI [8086:7113] (rev 08)
+/proc/ioports:     b000-b003 : ACPI PM1a_EVT_BLK
+/proc/ioports:     b004-b005 : ACPI PM1a_CNT_BLK
+/proc/ioports:     b008-b00b : ACPI PM_TMR
+/proc/ioports:     b020-b021 : ACPI GPE0_BLK
+/proc/iomem: de96d000-de97efff : ACPI Tables
+/proc/iomem: de97f000-de9fefff : ACPI Non-volatile Storage
+/proc/iomem: df0f0000-df0f1fff : ACPI Non-volatile Storage
+dmidecode: 		ACPI is supported
